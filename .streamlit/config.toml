@@ -1,0 +1,15 @@
+[theme]
+# Color principal (Botones y acentos) - Cyan Neón
+primaryColor = "#06b6d4"
+
+# Color de fondo principal - Azul Oscuro
+backgroundColor = "#12182b"
+
+# Color de fondo secundario (Cajas de texto y tarjetas)
+secondaryBackgroundColor = "#1e2845"
+
+# Color del texto - Blanco
+textColor = "#ffffff"
+
+# Tipografía
+font = "sans serif"
